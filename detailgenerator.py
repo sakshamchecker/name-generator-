@@ -15,7 +15,7 @@ def phone():
     return ph
     
 
-def aadhar():
+def uniqID():
     
     ad=''.join(["{}".format(randint(0, 9)) for num in range(0, 12)])
     return ad
@@ -74,6 +74,6 @@ for name in namelist:
     details.append(name.strip())
     details.append(g)
     details.append(phone())
-    details.append(aadhar())
+    details.append(uniqID())
     details.append(insta_and_fb(name))
     print(details)
