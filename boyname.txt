@@ -33,6 +33,7 @@ Rohan
 ajith
 ABHI
 PRATEEK
+Rahul
 Raghav
 Rishabh
 Vaibhav
@@ -127,3 +128,9 @@ Raman
 naruto
 Hitu
 vicky
+Hikaru
+Magnus
+Prakash
+Hrithik
+Shanmugham
+saurabh
